@@ -1,0 +1,49 @@
+Case Number,Name (first and last),Email,Gender,Course,Date of Infection,Time of Infection,Did you have symptoms? ,How many hours after exposure did you develop symptoms?,How many people did you infect? ,Name of First Person Infected,Date of First Infection,Time of First Infection,Name of Second Person Infected,Date of Second Infection,Time of Second Infection,Name of Third Person Infected,Date of Third Infection,Time of Third Infection,Name of Fourth Person Infected,Date of Fourth Infection,Time of Fourth Infection,Name of Fifth Person Infected,Date of Fifth Infection,Time of Fifth Infection,Infected By Case Number
+1,Grace Beasley,grace.beasley@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/27/22,9:00:00 AM,Yes,2,4,Ian Fowler,9/27/22,10:30:00 AM,Everett Brown,9/27/22,10:40:00 AM,Kari Wallrafen-Sam,9/27/22,10:35:00 AM,Miriam Selva,9/27/22,10:30:00 AM,,,,
+2,Karina Wallrafen-Sam,karina.wallrafen-sam@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/27/22,10:00:00 AM,Yes,7,1,Haley Liakakos,9/27/22,12:30:00 AM,,,,,,,,,,,,,1
+3,Everett Brown,everett.brown@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/27/22,10:05:00 AM,No,,0,,,,,,,,,,,,,,,,1
+4,Ian Fowler,ifowler@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/27/22,10:30:00 AM,No,,0,,,,,,,,,,,,,,,,1
+5,Miriam Selva,miriam.selva@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/27/22,10:30:00 AM,Yes,8,5,Diego Cruz,9/28/22,1:36:00 PM,Isabella Bati,9/28/22,7:56:00 PM,Samantha Strelz,9/29/22,9:54:00 AM,Mia Colton,9/29/22,9:55:00 AM,Lily Mcnulty,9/29/22,9:57:00 AM,1
+6,Cassie York,cassie.york@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/27/22,3:30:00 PM,No,,1,Jordan Queen,9/27/22,3:40:00 PM,,,,,,,,,,,,,
+7,Haley Liakakos,haley.liakakos@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/27/22,12:20:00 PM,No,,1,Meghan Peel,9/27/22,2:20:00 PM,,,,,,,,,,,,,2
+8,Meghan Peel,meghan.peel@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/27/22,2:30:00 PM,No,,0,,,,,,,,,,,,,,,,7
+9,Jordan Queen,jordan.queen@emory.edu,Male,EPI/GH 517 (Case Studies in ID),9/27/22,11:00:00 PM,No,,0,,,,,,,,,,,,,,,,6
+10,Diego Cruz ,diego.cruz@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/28/22,1:30:00 AM,No,,1,Vijay Srinivisan ,10/3/22,8:00:00 PM,,,,,,,,,,,,,5
+11,Isabella Batina,isabella.batina@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/28/22,7:50:00 PM,No,,0,,,,,,,,,,,,,,,,5
+12,Samantha Strelzer,samantha.strelzer@gmail.com,Female,EPI 569 (Concepts and Methods in ID EPI),9/29/22,9:02:00 AM,No,,1,Kayleigh Nerhood,9/29/22,10:02:00 AM,,,,,,,,,,,,,5
+13,Lily McNulty,lily.mcnulty@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/29/22,9:50:00 AM,No,,0,,,,,,,,,,,,,,,,5
+14,Mia Colton,mia.colton@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/29/22,9:58:00 AM,Yes,4,3,Joel Espinoza,9/29/22,11:37:00 AM,Trisha Deshmukh,9/29/22,2:20:00 PM,Abby Bowmen,9/29/22,2:30:00 PM,,,,,,,5
+15,Kayleigh Nerhood,kayleigh.nerhood@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/29/22,10:02:00 AM,Yes,15,3,Alyssa Harvey,9/30/22,9:31:00 AM,Sophie Lockwood,9/30/22,10:00:00 AM,Isaac Schneider,9/30/22,10:00:00 AM,,,,,,,12
+16,Joel Espinoza,Joel.espinoza@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/29/22,11:30:00 AM,Yes,15,4,Noah Mancuso,9/29/22,1:00:00 PM,Nicholas Ripper,9/29/22,3:00:00 PM,Mitchell Dvorak,9/30/22,9:30:00 AM,Kelly Falcone,9/30/22,11:30:00 AM,,,,14
+17,Noah Mancuso,noah.mancuso@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/29/22,1:00:00 PM,Yes,9,1,Miranda Montoya,9/29/22,3:00:00 PM,,,,,,,,,,,,,16
+18,Trisha Deshmukh,trisha.deshmukh@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/29/22,2:22:00 PM,Yes,1,1,Did Not Collect,9/29/22,2:45:00 PM,,,,,,,,,,,,,14
+19,Allison Codi,Allison.codi@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/29/22,2:45:00 PM,No,24,1,Erica Johnson,10/3/22,2:45:00 PM,,,,,,,,,,,,,
+20,Nicholas Ripper,nicholas.ripper@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/29/22,3:00:00 PM,Yes,7,3,Lauren Miller,9/30/22,9:50:00 AM,Teniola Balogun,9/30/22,9:50:00 AM,Zachary Ellison,9/30/22,11:58:00 AM,,,,,,,16
+21,Miranda Montoya,miranda.montoya@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/29/22,3:15:00 PM,Yes,15,3,Bevin Manuelpillai,9/29/22,5:05:00 PM,Hanh,9/29/22,5:06:00 PM,Arshi C,9/30/22,10:07:00 AM,,,,,,,17
+22,Mitchell Dvorak,Mitchell.dvorak@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/30/22,9:30:00 AM,Yes,2,2,Anika Hann,9/30/22,11:22:00 AM,Kayleigh Nerhood,9/30/22,11:32:00 AM,,,,,,,,,,16
+23,Alyssa Harvey,Alyssa.harvey@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,9:30:00 AM,Yes,1,1,Chisom Okereke,9/30/22,11:20:00 AM,,,,,,,,,,,,,15
+24,Lauren Miller,lauren.miller@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,9:50:00 AM,Yes,7,1,Sophie Lockwood,10/4/22,8:55:00 AM,,,,,,,,,,,,,20
+25,Teniola Balogun,teniola.balogun@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,9:57:00 AM,Yes,12,4,Jeff Whately,10/3/22,11:25:00 AM,Amanda Gaylord,10/2/22,3:00:00 PM,Nicholas Ripper,10/1/22,7:15:00 PM,Nneka E,10/3/22,8:00:00 AM,,,,20
+26,Isaac Schneider,Isaac.schneider@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/30/22,10:00:00 AM,Yes,13,2,Victoria Dunkley,9/30/22,11:20:00 AM,Olivia Anike,9/30/22,11:25:00 AM,,,,,,,,,,15
+27,Kelly Falcone,Kelly.falcone@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,10:00:00 AM,Yes,14,2,Oluwatosin Olojo,9/30/22,11:20:00 AM,Courtney Kine ,9/30/22,11:50:00 AM,,,,,,,,,,16
+28,Sophie Lockwood,sophie.lockwood@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,10:00:00 AM,Yes,16,1,Sarah Murray,9/30/22,3:00:00 PM,,,,,,,,,,,,,15
+29,Chisom Okereke,chisom.okereke@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,11:20:00 AM,Yes,14,2,Katie Maher,9/30/22,2:00:00 PM,Esperance Mugabekazi,9/30/22,2:30:00 PM,,,,,,,,,,23
+30,Annika Pracher,annika.pracher@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,11:21:00 AM,Yes,8,2,Benjamin Goldberg,9/30/22,12:32:00 PM,Alyssa Harvey,9/30/22,12:34:00 PM,,,,,,,,,,21
+31,Oluwatosin Olojo,oluwatosin.olojo@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,11:22:00 AM,No,,1,Caroline Sheikhzadeh,9/30/22,12:45:00 PM,,,,,,,,,,,,,27
+32,Jeffery Whatley,jeffery.whatley@emory.edy,Male,EPI 569 (Concepts and Methods in ID EPI),9/30/22,11:27:00 AM,Yes,14,3,Abigial Salthouse,9/30/22,12:29:00 PM,Tommy Hess,9/30/22,12:51:00 PM,David Trey Evans ,9/30/22,12:51:00 PM,,,,,,,25
+33,Olivia Anike,oanike@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,11:28:00 AM,Yes,15,1,Kayleigh Nerhood,9/30/22,12:39:00 PM,,,,,,,,,,,,,26
+34,Victoria Dunley,victoria.dunkley@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,11:30:00 AM,Yes,13,1,Arshi Chowdhury,9/30/22,12:31:00 PM,,,,,,,,,,,,,26
+35,Zachary Ellison,zachary.ellison@emory.edu,Male,EPI/GH 517 (Case Studies in ID),9/30/22,11:58:00 AM,Yes,1,1,Carmen Wagener,9/30/22,1:00:00 PM,,,,,,,,,,,,,20
+36,Courtney Kinnane,courtney.kinnane@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/30/22,12:00:00 PM,No,,0,,,,,,,,,,,,,,,,27
+37,Katie Maher,katie.maher129@gmail.com,Female,EPI/GH 517 (Case Studies in ID),9/30/22,12:23:00 PM,Yes,3,2,Kelsey Fudge,9/30/22,1:00:00 PM,Alex Vanegas,9/30/22,1:00:00 PM,,,,,,,,,,29
+38,Benjamin Goldberg,benjamin.goldberg@emory.edu,Male,EPI 569 (Concepts and Methods in ID EPI),9/30/22,12:32:00 PM,Yes,14,1,Joel Espinoza,10/2/22,1:00:00 PM,,,,,,,,,,,,,30
+39,Bevin Manuelpillai,bevinmanuelpillai@gmail.com,Male,EPI/GH 517 (Case Studies in ID),9/30/22,12:50:00 PM,No,4,1,Franchesca  Aguilar,9/30/22,12:56:00 PM,,,,,,,,,,,,,21
+40,Franchesca Amor Aguilar,franchesca.amor.aguilar@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/30/22,12:50:00 PM,No,,0,,,,,,,,,,,,,,,,38
+41,Carmen Wagener,carmen.wagener@emory.edu,Female,Both,9/30/22,1:00:00 PM,No,,1,Taylor Pickett,10/3/22,11:00:00 AM,,,,,,,,,,,,,35
+42,Esperance Mugabekazi,emugab2@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/30/22,1:00:00 PM,No,,0,,,,,,,,,,,,,,,,29
+43,Sarah Murray,sarah.murray2@emory.edu,Female,EPI/GH 517 (Case Studies in ID),9/30/22,2:50:00 PM,Yes,11,1,Cassie York,9/30/22,3:15:00 PM,,,,,,,,,,,,,28
+44,Arshi Chowdhury,arshi.chowdhury@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),9/30/22,3:30:00 PM,Yes,4,1,Megan Henry,10/3/22,3:30:00 PM,,,,,,,,,,,,,21
+45,Erica Johnson,Erica.Johnson2@emory.edu,Female,EPI/GH 517 (Case Studies in ID),10/3/22,2:50:00 AM,Yes,14,5,Alicia,10/4/22,2:50:00 PM,,,,,,,,,,,,,19
+46,Megan Henry,megan.henry@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),10/3/22,3:30:00 PM,Yes,3,5,Noah Mancuso,10/3/22,5:30:00 PM,Isaac Schneider ,10/3/22,5:00:00 PM,Abigail Salthouse,10/3/22,5:15:00 PM,Samantha Strelzer,10/4/22,7:00:00 PM,Erin LaFon,10/3/22,4:00:00 PM,44
+47,Erin LaFon,erin.lafon@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),10/3/22,3:50:00 PM,Yes,17,4,Joel,10/4/22,11:55:00 AM,Alec Powers,10/4/22,12:15:00 PM,Trey Evans,10/4/22,12:45:00 PM,Samantha Strelzer,10/4/22,7:00:00 PM,,,,46
+48,Taylor pickett,Taylor.pickett@emory.edu,Female,EPI 569 (Concepts and Methods in ID EPI),10/3/22,11:00:00 PM,No,,1,Caroline,10/6/22,9:00:00 PM,,,,,,,,,,,,,41
