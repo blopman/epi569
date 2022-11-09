@@ -1,0 +1,75 @@
+id,Name (first and last),Gender,gentype,Course,classtype,Symptoms,symtype,RedNose,On what day did you develop a red nose?,NumberExposed,NumberInfected
+c41,Carmen Wagener,Female,1,Both,4,No,1,,,1,1
+c6,Cassie York,Female,1,EPI 517,2,No,1,,,1,1
+c11,Isabella Batina,Female,1,EPI 517,2,No,1,,,0,0
+c13,Lily McNulty,Female,1,EPI 517,2,No,1,,,0,0
+c19,Allison Codi,Female,1,EPI 517,2,No,1,,,1,1
+c36,Courtney Kinnane,Female,1,EPI 517,2,No,1,,,0,0
+c40,Franchesca Amor Aguilar,Female,1,EPI 517,2,No,1,,,0,0
+c42,Esperance Mugabekazi,Female,1,EPI 517,2,No,1,,,0,0
+c66,P Santos,Female,1,EPI 517,2,No,1,,,2,2
+c9,Jordan Queen,Male,2,EPI 517,2,No,1,,,0,0
+c39,Bevin Manuelpillai,Male,2,EPI 517,2,No,1,,,1,1
+c7,Haley Liakakos,Female,1,EPI 569,1,No,1,,,1,1
+c8,Meghan Peel,Female,1,EPI 569,1,No,1,,,0,0
+c12,Samantha Strelzer,Female,1,EPI 569,1,No,1,,,1,1
+c31,Oluwatosin Olojo,Female,1,EPI 569,1,No,1,,,1,1
+c48,Taylor pickett,Female,1,EPI 569,1,No,1,,,1,1
+c55,Olivia Anike,Female,1,EPI 569,1,No,1,,,0,0
+c56,Pragati Prasad,Female,1,EPI 569,1,No,1,,,2,0
+c68,Katherine Sun,Female,1,EPI 569,1,No,1,,,1,0
+c71,Sydney Resler,Female,1,EPI 569,1,No,1,,,0,0
+c3,Everett Brown,Male,2,EPI 569,1,No,1,,,0,0
+c4,Ian Fowler,Male,2,EPI 569,1,No,1,,,0,0
+c10,Diego Cruz ,Male,2,EPI 569,1,No,1,,,1,1
+c75,Cameron Davis,Male,2,EPI 569,1,No,1,,,0,0
+c37,Katie Maher,Female,1,EPI 517,2,Yes,2,Yes,10/5/22,2,2
+c43,Sarah Murray,Female,1,EPI 517,2,Yes,2,No,,1,0
+c45,Erica Johnson,Female,1,EPI 517,2,Yes,2,Yes,10/12/22,5,5
+c67,Ava Cox,Female,1,EPI 517,2,Yes,2,Yes,10/18/22,0,0
+c35,Zachary Ellison,Male,2,EPI 517,2,Yes,2,No,,1,1
+c50,David Evans,Male,2,EPI 517,2,Yes,2,No,,1,0
+c1,Grace Beasley,Female,1,EPI 569,1,Yes,2,Yes,10/3/22,4,4
+c2,Karina Wallrafen-Sam,Female,1,EPI 569,1,Yes,2,No,,1,1
+c5,Miriam Selva,Female,1,EPI 569,1,Yes,2,Yes,9/30/22,5,5
+c14,Mia Colton,Female,1,EPI 569,1,Yes,2,Yes,10/3/22,3,3
+c15,Kayleigh Nerhood,Female,1,EPI 569,1,Yes,2,Yes,10/2/22,3,3
+c18,Trisha Deshmukh,Female,1,EPI 569,1,Yes,2,No,,1,1
+c21,Miranda Montoya,Female,1,EPI 569,1,Yes,2,Yes,10/6/22,3,3
+c23,Alyssa Harvey,Female,1,EPI 569,1,Yes,2,Yes,10/10/22,1,1
+c24,Lauren Miller,Female,1,EPI 569,1,Yes,2,No,,1,1
+c25,Teniola Balogun,Female,1,EPI 569,1,Yes,2,No,,4,3
+c27,Kelly Falcone,Female,1,EPI 569,1,Yes,2,Yes,10/4/22,2,2
+c28,Sophie Lockwood,Female,1,EPI 569,1,Yes,2,No,,1,1
+c29,Chisom Okereke,Female,1,EPI 569,1,Yes,2,Yes,10/3/22,2,2
+c30,Annika Pracher,Female,1,EPI 569,1,Yes,2,No,,2,1
+c33,Olivia Anike,Female,1,EPI 569,1,Yes,2,Yes,10/4/22,1,1
+c34,Victoria Dunley,Female,1,EPI 569,1,Yes,2,No,,1,0
+c44,Arshi Chowdhury,Female,1,EPI 569,1,Yes,2,Yes,10/4/22,1,1
+c46,Megan Henry,Female,1,EPI 569,1,Yes,2,No,,5,1
+c47,Erin LaFon,Female,1,EPI 569,1,Yes,2,No,,4,1
+c51,Caroline Sheikhzadeh,Female,1,EPI 569,1,Yes,2,No,,2,2
+c52,Alison Grossman,Female,1,EPI 569,1,Yes,2,No,,2,2
+c53,Nneka Ezeanya,Female,1,EPI 569,1,Yes,2,Yes,10/17/22,3,3
+c54,Emily Valice,Female,1,EPI 569,1,Yes,2,No,,1,1
+c57,Herveen Singh,Female,1,EPI 569,1,Yes,2,Yes,10/16/22,4,1
+c58,Angelle Naquin,Female,1,EPI 569,1,Yes,2,No,,4,4
+c60,Krista Stenberg,Female,1,EPI 569,1,Yes,2,Yes,10/17/22,3,1
+c62,Brianna Thompson,Female,1,EPI 569,1,Yes,2,Yes,10/18/22,1,1
+c63,Nazha Diwan,Female,1,EPI 569,1,Yes,2,No,,1,1
+c64,Emily Danzl,Female,1,EPI 569,1,Yes,2,Yes,10/11/22,3,1
+c65,Keighly Little,Female,1,EPI 569,1,Yes,2,Yes,10/13/22,2,2
+c69,Sara Kim,Female,1,EPI 569,1,Yes,2,Yes,10/18/22,3,3
+c70,Andrea Torres,Female,1,EPI 569,1,Yes,2,No,,3,3
+c72,Katie Phillip,Female,1,EPI 569,1,Yes,2,Yes,10/17/22,1,1
+c16,Joel Espinoza,Male,2,EPI 569,1,Yes,2,Yes,10/9/22,4,4
+c17,Noah Mancuso,Male,2,EPI 569,1,Yes,2,No,,1,1
+c20,Nicholas Ripper,Male,2,EPI 569,1,Yes,2,Yes,10/7/22,3,3
+c22,Mitchell Dvorak,Male,2,EPI 569,1,Yes,2,No,,2,2
+c26,Isaac Schneider,Male,2,EPI 569,1,Yes,2,No,,2,2
+c32,Jeffery Whatley,Male,2,EPI 569,1,Yes,2,No,,3,3
+c38,Benjamin Goldberg,Male,2,EPI 569,1,Yes,2,Yes,10/6/22,1,0
+c49,Corbin Brent,Male,2,EPI 569,1,Yes,2,Yes,10/9/22,4,1
+c61,Dan Flanagan,Male,2,EPI 569,1,Yes,2,No,,1,0
+c74,Patrick Bircher ,Male,2,EPI 569,1,Yes,2,No,,1,1
+c73,Margalit Leiser,Prefer Not To Answer,3,EPI 569,1,Yes,2,Yes,10/23/22,1,0
